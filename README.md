@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thank you for visiting my portfolio!
+Thank you for visiting my portfolio's repo!
 
 You can visit my portfolio at <a href = "https://hezbranch.github.io/"> hezbranch.github.io </a> or by clicking <a href = "https://hezbranch.github.io/"> here</a>.
 
