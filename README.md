@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Thank you for visiting my portfolio!
+
+You can visit my portfolio at <a href = "https://hezbranch.github.io/"> hezbranch.github.io </a> or by clicking <a href = "https://hezbranch.github.io/"> here</a>.
+
+\- Hezekiah
+
 <!--
 **hezbranch/hezbranch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
