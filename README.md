@@ -6,6 +6,12 @@ You can visit my portfolio at <a href = "https://hezbranch.github.io/"> hezbranc
 
 \- Hezekiah
 
+
+1. All aspects have been implemented correctly.
+2. I have not collaborated with or discussed this portfolio with anyone.
+3. Approximately 1-2 hours spent creating this portfolio.
+4. Written in Markdown (README.md) with all capital letters.
+
 <!--
 **hezbranch/hezbranch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
