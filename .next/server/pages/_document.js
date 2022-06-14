@@ -19,7 +19,7 @@ exports.modules = {
 /* harmony export */ });
 /* unused harmony exports EXAMPLE_PATH, GITHUB_REPO */
 const EXAMPLE_PATH = 'blog-starter';
-const CMS_NAME = 'Markdown';
+const CMS_NAME = 'hezjbranch';
 const HOME_OG_IMAGE_URL = 'https://storage.cloud.google.com/imageshjb/0.jpg';
 const BLOG_NAME = 'Hezekiah\'s Blog';
 const KEYWORDS = 'tech, blog, next.js, data, software';

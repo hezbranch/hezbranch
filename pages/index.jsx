@@ -14,7 +14,7 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>HEZEKIAH {CMS_NAME}</title>
+          <title>@ {CMS_NAME}</title>
         </Head>
         <Container>
           <Intro />
