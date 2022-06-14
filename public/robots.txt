@@ -1,0 +1,2 @@
+User-agent: * 
+Sitemap: https://hezbranch.github.io/sitemap.xml
