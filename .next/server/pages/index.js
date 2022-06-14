@@ -245,7 +245,7 @@ function Index({ allPosts  }) {
                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx((next_head__WEBPACK_IMPORTED_MODULE_7___default()), {
                     children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("title", {
                         children: [
-                            "Next.js Blog Example with ",
+                            "Hezekiah — Blog ",
                             _lib_constants__WEBPACK_IMPORTED_MODULE_8__/* .CMS_NAME */ .yf
                         ]
                     })

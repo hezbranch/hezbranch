@@ -20,10 +20,10 @@ exports.modules = {
 /* unused harmony exports EXAMPLE_PATH, GITHUB_REPO */
 const EXAMPLE_PATH = 'blog-starter';
 const CMS_NAME = 'Markdown';
-const HOME_OG_IMAGE_URL = 'images/0.jpg';
+const HOME_OG_IMAGE_URL = 'https://storage.cloud.google.com/imageshjb/0.jpg';
 const BLOG_NAME = 'Hezekiah\'s Blog';
 const KEYWORDS = 'tech, blog, next.js, data, software';
-const DESCRIPTION = 'Next.js style tech blog for Hezekiah (design by sandypockets)';
+const DESCRIPTION = 'Hezekiah Branch Next.js style tech blog (design by sandypockets)';
 const AUTHOR = 'Hezekiah J. Branch';
 const LANG = 'en-US';
 const GITHUB_REPO = 'https://github.com/hezbranch';
