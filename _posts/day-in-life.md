@@ -14,7 +14,7 @@ Hey, y'all! I'm excited to share with you my first blog post on my new page.
 
 For those who are just now joining the ride, I'm currently in year 2 of my graduate studies. I'm pursuing my Master's in Data Science, specializing in the intersection(s) of clinical machine learning, deep learning for cancer research, and computational pathology. 
 
-I'm a Black Trinidadian-Bostoninan from Roxbury (not a surprising combo if you're from Boston) who speaks Spanish and Brazilian Portuguese, a huge anime nerd, a musician, a coding bootcamp founder, and a freelance data scientist. I'm also a Graduate Researcher at MIT.
+I'm a Black Trinidadian-Bostonian from Roxbury (not a surprising combo if you're from Boston) who speaks Spanish and Brazilian Portuguese. I'm also a huge anime nerd, a musician, a coding bootcamp founder, and a freelance data scientist. Outside of that, I'm a Graduate Researcher at MIT.
 
 Many of my friends and social media peeers have asked me to share my experience in grad school. I've realized that it'd be a lot easier for me to turn this share into a post! 
 
@@ -42,9 +42,9 @@ Walking on Warren Street in Roxbury (across from where MLK used to preach)
 
 <br/> <br/>
 
-Once I hit Nubian, I can quickly grab some Dunkin' (bacon-egg-and-cheese on a plain bagel and a coffee roll) and hop on the 23 or 28 to Ruggles (free bus as a result of Mayor Wu's dedication to assist the poorest part of the city). A couple times, I tried to take the 1 which ends at Harvard Square but it took WAY too long with morning traffic. I could also take the Silver Line, our Rapid Transit line, to Downtown Crossing via SL5. Technically, the SL4 will take you to South Station (Red Line) so you *could* avoid a transfer, but clearly you don't want to get there on time cuz that's the wrong way! 
+Once I hit Nubian, I can quickly grab some Dunkin' (bacon-egg-and-cheese on a plain bagel and a coffeeroll) and hop on the 23 or 28 to Ruggles (free bus as a result of Mayor Wu's dedication to assist the poorest part of the city). A couple times, I tried to take the 1 which ends at Harvard Square but it took WAY too long with morning traffic. I could also take the Silver Line, our Rapid Transit line, to Downtown Crossing via SL5. Technically, the SL4 will take you to South Station (Red Line) so you *could* avoid a transfer, but clearly you don't want to get there on time cuz that's the wrong way! 
 
-Honestly, Nubian is one of my favorite parts of the day because you get to see familiar faces while you wait and the older folks expect good manners. When most of my day is spent in coding or working on proofs, it's easy to forget to be a human being. I get that reminder here each day. Also, the bus drivers are miracle workers and I have massive respect for their courage and versatility each day.
+Honestly, Nubian is one of my favorite parts of the day because you get to see familiar faces while you wait and the older folks expect good manners. When most of my day is spent in coding or working on proofs, it's easy to forget to be a human being. I get that re minder here each day. Also, the bus drivers are miracle workers and I have massive respect for their courage and versatility each day.
 
 <br/>
 
