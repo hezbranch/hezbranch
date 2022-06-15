@@ -96,11 +96,11 @@ function Intro() {
         children: [
             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h1", {
                 className: "text-6xl md:text-8xl lg:text-9xl font-bold tracking-tighter leading-tight md:pr-8",
-                children: "Blog."
+                children: "Welcome."
             }),
             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h4", {
                 className: "text-center md:text-left text-lg mt-5 md:pl-8",
-                children: "Get a beautiful, feature-rich blog up and running. Fast."
+                children: "Artificial Intelligence | Cancer Research | Applied Mathematics"
             })
         ]
     }));

@@ -4,28 +4,14 @@
         <description><![CDATA[Next.js Blog Starter]]></description>
         <link>https://blog-starter.sandypockets.dev</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jun 2022 22:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 02:10:25 GMT</lastBuildDate>
         <atom:link href="https://blog-starter.sandypockets.dev/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[A blog starter you actually want to use]]></title>
-            <description><![CDATA[There are hundreds of different blog starters out there. But none felt quite right. So I built my own. Based off the basic Next.js Blog Starter, but now with several handy features like dark mode (using local storage) or Google Analytics. It comes with Storybook too.]]></description>
-            <link>https://blog-starter.sandypockets.dev/posts/a-nextjs-blog-starter-you-actually-want-to-use</link>
-            <guid isPermaLink="true">https://blog-starter.sandypockets.dev/posts/a-nextjs-blog-starter-you-actually-want-to-use</guid>
-            <pubDate>Tue, 24 Aug 2021 05:35:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting started with this template]]></title>
-            <description><![CDATA[Everything you need to know to get a Next.js blog up and running.]]></description>
-            <link>https://blog-starter.sandypockets.dev/posts/getting-started</link>
-            <guid isPermaLink="true">https://blog-starter.sandypockets.dev/posts/getting-started</guid>
-            <pubDate>Tue, 24 Aug 2021 05:35:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Markdown reference]]></title>
-            <description><![CDATA[Sick of starters that accept markdown, but don't come with any built-in styling? Check out what works right out of the box.]]></description>
-            <link>https://blog-starter.sandypockets.dev/posts/markdown-reference</link>
-            <guid isPermaLink="true">https://blog-starter.sandypockets.dev/posts/markdown-reference</guid>
-            <pubDate>Tue, 24 Aug 2021 05:35:07 GMT</pubDate>
+            <title><![CDATA[Day in the Life: Graduate Engineering]]></title>
+            <description><![CDATA[Going for my Master's has been no easy feat! Here's why.]]></description>
+            <link>https://blog-starter.sandypockets.dev/posts/day-in-life</link>
+            <guid isPermaLink="true">https://blog-starter.sandypockets.dev/posts/day-in-life</guid>
+            <pubDate>Tue, 14 Jun 2022 23:23:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
