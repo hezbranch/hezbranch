@@ -37,8 +37,10 @@ export default function About() {
             cornbread, brown stew chicken, rice and peas, collard greens, in addition to traditional Trini dishes. My 
             favorite foods are doubles with pepper sauce and curry goat with roti. Oxtail's also up there for me but 
             it's hard to get good oxtail outside of NYC unless you're on the island.
+            <br />  <br />
 
-            I'm also a massive lover of graph theory and network science! You'll see a lot more coming soon.
+            I'm also a massive lover of graph theory and network science! You'll see a lot more coming soon. <br />
+            <br />
 
             Hope you enjoy!
 
