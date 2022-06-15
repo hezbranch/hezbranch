@@ -42,7 +42,7 @@ export default function About() {
             I'm also a massive lover of graph theory and network science! You'll see a lot more coming soon. <br />
             <br />
 
-            Hope you enjoy!
+            Hope you enjoy!  <br />  <br />
 
             - Hezekiah
           </p>
