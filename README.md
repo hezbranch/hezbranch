@@ -7,4 +7,4 @@ Visit my personal website at: <br/>
 
 [HEZEKIAH](https://hezbranch-github-io.vercel.app/)
 
-Design by @sandypockets
+Website design provided by @sandypockets
