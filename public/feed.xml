@@ -4,7 +4,7 @@
         <description><![CDATA[Next.js Blog Starter]]></description>
         <link>https://blog-starter.sandypockets.dev</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jun 2022 00:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 00:18:41 GMT</lastBuildDate>
         <atom:link href="https://blog-starter.sandypockets.dev/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Day in the Life: Graduate Engineering]]></title>
